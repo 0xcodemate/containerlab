@@ -31,7 +31,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/runtime-spec v1.1.0-rc.2
 	github.com/pkg/errors v0.9.1
-	github.com/pmorjan/kmod v1.1.0
+	github.com/pmorjan/kmod v1.1.1
 	github.com/scrapli/scrapligo v1.1.8
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
@@ -40,7 +40,7 @@ require (
 	github.com/weaveworks/ignite v0.10.0
 	golang.org/x/crypto v0.9.0
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
-	golang.org/x/sys v0.8.0
+	golang.org/x/sys v0.16.0
 	golang.org/x/term v0.8.0
 	gopkg.in/yaml.v2 v2.4.0
 )
