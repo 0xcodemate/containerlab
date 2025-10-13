@@ -1,6 +1,6 @@
 module github.com/srl-labs/containerlab
 
-go 1.20
+go 1.24.0
 
 require (
 	github.com/a8m/envsubst v1.4.2
@@ -40,7 +40,7 @@ require (
 	github.com/weaveworks/ignite v0.10.0
 	golang.org/x/crypto v0.9.0
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
-	golang.org/x/sys v0.8.0
+	golang.org/x/sys v0.37.0
 	golang.org/x/term v0.8.0
 	gopkg.in/yaml.v2 v2.4.0
 )
